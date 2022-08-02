@@ -15,7 +15,7 @@ However, when we examine the Average Fare per Ride column in this dataframe, we 
 A multiple line chart was also created as part of the analysis to assist us in visualizing and analyzing the Total Fares for each of the city types from January 1 to April 29th 2019.
 ![](Analysis/PyBer_fare_summary.png)
 
-We can quickly observe that during the time period analyzed for the total fare for each of the city types, urban city types had the highest total fares for all the weeks, while rural areas had the lowest. Additionally, we can see that the third week of February has the highest total fares for each city type, indicating increased demand during that time period. Urban areas also appear to generate a significant amount of revenue in the first and third weeks of March. Between the beginning of January and the end of April, all fares for each city type are dramatically decreasing.
+We can quickly observe that during the time period analyzed for the total fare for each of the city types, urban city types had the highest total fares for all the weeks, while rural areas had the lowest. Additionally, we can see that the third week of February had the highest total fares for each city type, indicating increased demand during that time period. Urban areas also appear to generate a significant amount of revenue in the first and third weeks of March. Between the beginning of January and the end of April, all fares for each city type are dramatically decreasing.
 
 ### Summary
 Following our analysis, the following recommendations can be made to more efficiently direct investments in the proper city types:
