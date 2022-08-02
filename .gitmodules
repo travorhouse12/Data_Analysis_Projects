@@ -1,3 +1,0 @@
-[submodule "stocks"]
-	path = stocks
-	url = git@github.com:travorhouse12/stocks.git
